@@ -2,9 +2,9 @@
 
 
 // Определения переменных
-const char* ssid = "molvinskayaaa";
-const char* password = "yaroslav2016";
-const String apiKey = "9ce0bce380394587a11102931253101"; //API ключ для OpenWeatherMap до 14.01
+const char* ssid = "wifi name";
+const char* password = "password";
+const String apiKey = "api"; //API ключ для OpenWeatherMap до 14.01
 
 OneWire oneWire(ONE_WIRE_BUS); // Замените ONE_WIRE_BUS на ваш конкретный пин
 
